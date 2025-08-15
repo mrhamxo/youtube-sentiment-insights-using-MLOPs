@@ -4,7 +4,8 @@ Flask_Cors
 joblib
 lightgbm
 matplotlib  
-mlflow==2.2.2
+mlflow
+dagshub
 dvc
 dvc[s3]
 nltk
