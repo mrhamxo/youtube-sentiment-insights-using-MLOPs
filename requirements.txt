@@ -4,10 +4,9 @@ Flask_Cors
 joblib
 lightgbm
 matplotlib  
-mlflow
+mlflow==2.18.0
 dagshub
 dvc
-dvc[s3]
 nltk
 numpy
 pandas
